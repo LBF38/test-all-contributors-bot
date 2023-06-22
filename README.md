@@ -11,7 +11,7 @@ This is a repo to test the all-contributors config
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/LBF38"><img src="https://avatars.githubusercontent.com/u/96347823?v=4?s=100" width="100px;" alt="LBF38"/><br /><sub><b>LBF38</b></sub></a><br /><a href="#code-LBF38" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/LBF38"><img src="https://avatars.githubusercontent.com/u/96347823?v=4?s=100" width="100px;" alt="LBF38"/><br /><sub><b>LBF38</b></sub></a><br /><a href="#code-LBF38" title="Code">💻</a> <a href="#doc-LBF38" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
