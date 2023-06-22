@@ -1,4 +1,21 @@
 {
   "projectName": "test-all-contributors-bot",
-  "projectOwner": "LBF38"
+  "projectOwner": "LBF38",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "LBF38",
+      "name": "LBF38",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96347823?v=4",
+      "profile": "https://github.com/LBF38",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
 }
